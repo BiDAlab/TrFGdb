@@ -12,7 +12,7 @@ International Organizations demand to take care of our oceans and their ecosyste
 
 ## INSTRUCTIONS FOR DOWNLOADING TrFGdb 
 
-1. [Download license agreement](URL), send by email one signed and scanned copy to atvs@uam.es and juanmanuel.rodrigueza@alumni.uam.es according to the instructions given in point 2.
+1. [Download license agreement](https://github.com/BiDAlab/TrFGdb/blob/main/FishGear_License.docx), send by email one signed and scanned copy to atvs@uam.es and juanmanuel.rodrigueza@alumni.uam.es according to the instructions given in point 2.
 
 2. Send an email to atvs@uam.es and juanmanuel.rodrigueza@alumni.uam.es, as follows:
 
